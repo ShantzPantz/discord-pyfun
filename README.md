@@ -3,10 +3,11 @@
 discord-pyfun is a collection of bot plugins and services that interact with a Discord Server. This is a playground of sorts.
 
 ## Getting Started
-Clone the repository
+Clone the repository & navigate to the project
 ```bash
-git clone repository
+git clone https://github.com/ShantzPantz/discord-pyfun.git && cd discord-pyfun
 ```
+
 First we must create a config.py configuration file from the config.py.template.
 ```bash
 cp src/config.py.template src/config.py
@@ -23,7 +24,7 @@ Install Python Requirements
 pip install -r requirements.txt
 ```
 
-##Run the bot
+## Run the bot
 ```bash
 cd src
 python main.py
