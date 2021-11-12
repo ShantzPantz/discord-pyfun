@@ -13,7 +13,7 @@ First we must create a config.py configuration file from the config.py.template.
 cp src/config.py.template src/config.py
 ```
 
-edit the newly created config.py to include your Discord API key and any additional API keys that are required.
+Edit the newly created config.py to include your Discord API key and any additional API keys that are required.
 
 ## Requirements
 
